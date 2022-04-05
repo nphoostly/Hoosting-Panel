@@ -57,10 +57,9 @@
   }
 
   /* Style the tab content */
-  .taabcontent {
-    display: none;
+  .taabcontent {    
     padding: 6px 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #2196F3;
     border-top: none;
   }
   /* Float four columns side by side */
